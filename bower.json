@@ -1,0 +1,17 @@
+{
+  "name": "light-dashboard",
+  "version": "1.0.1",
+  "authors": [
+     "dvson-sun <dao.vinh.son@sun-asterisk.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "bower"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dvson-sun/light-dashboard.git",
+  "ignore": [
+    "README.md"
+  ]
+}
